@@ -1,8 +1,3 @@
-## Hi there 👋
-
-¡Hola! Soy Oscar, un desarrollador full stack apasionado por construir soluciones robustas, escalables y visualmente profesionales. Combino una sólida arquitectura backend con interfaces modernas y accesibles, cuidando cada detalle desde la base de datos hasta el último píxel en pantalla.
-🧠 Tech Stack
-
 🧩 Filosofía de desarrollo
 • 	🔍 Precisión técnica: Validaciones modulares, endpoints limpios, y flujos automáticos de negocio.
 • 	🎯 Pixel-perfect UI: Interfaces alineadas, semánticas y accesibles, con layouts profesionales y escalables.
